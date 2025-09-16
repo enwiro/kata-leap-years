@@ -24,6 +24,8 @@ En tant qu'utilisateur, je veux savoir si une année est une année bissextile, 
 
 **Bon code !**
 
+Anglais ci-dessous :
+
 ## Kata - Leap Years
 
 This short and simple Kata should be performed in pairs using Test Driven Development (TDD).
