@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GreetTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-17T13:21:51.756Z" hostname="enwiro-HP-EliteBook-830-G8-Notebook-PC" time="0.12">
+  <properties/>
+  <testcase name="shouldHandleEmptyName()" classname="GreetTest" time="0.106"/>
+  <testcase name="shouldHandleCustomGreetingWithSpecialCharacters()" classname="GreetTest" time="0.002"/>
+  <testcase name="shouldGreetWithDefaultGreeting()" classname="GreetTest" time="0.002"/>
+  <testcase name="shouldGreetWithCustomGreeting()" classname="GreetTest" time="0.001"/>
+  <testcase name="shouldHandleSpecialCharactersInName()" classname="GreetTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
