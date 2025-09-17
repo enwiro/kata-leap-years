@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // JUnit 5
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
+
+    // Mockito
+    testImplementation 'org.mockito:mockito-core:5.10.0'
+
+    // AssertJ
+    testImplementation 'org.assertj:assertj-core:3.25.1'
+
+    // JUnit Platform Launcher (required in Gradle 9+)
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.13.0'
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed"
+        exceptionFormat "full"
+        showStandardStreams = true
+    }
+}
