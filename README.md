@@ -4,6 +4,8 @@ Ce Kata se base sur un kata existant : https://codingdojo.org/kata/LeapYears/
 
 Ce repository est fait pour être utilisé comme fork avec KillerCoda avec un environnement TS : https://killercoda.com/hoppr/scenario/kata-ts
 
+Vous trouverez les commandes basiques de Bun dans le [README_BUN.md](./READ_BUN.md) dédié.
+
 ## Kata - Les années bissextiles
 
 Ce kata court et simple doit être réalisé par deux personnes à l'aide du développement piloté par les tests (TDD).
