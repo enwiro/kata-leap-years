@@ -1,3 +1,5 @@
+package Greet;
+
 public class Greet {
     public static String greet(String name) {
         return greet(name, "Hello");
