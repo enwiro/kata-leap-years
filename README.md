@@ -1,5 +1,7 @@
 # kata-leap-years
 
+I am here !
+
 Ce Kata se base sur un kata existant : https://codingdojo.org/kata/LeapYears/
 
 Ce repository est fait pour être utilisé comme fork avec KillerCoda avec un environnement TS : https://killercoda.com/hoppr/scenario/kata-ts
